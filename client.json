@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quarantinedost-oorg",
+  "private_key_id": "9f19788818388c9bb77af2718237e170ac64fc4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJJ4SP1a7iDeFJ\ntDdKOr2iNg6/RqostCIx3ycr0MHEfVp5ySYAQ2tUGi3ec5kHVjTwQe4PPjx87eG4\nOY91Vh+9gSBNgk4e7YKMycgx5HiEtjmtRKpvukZVeeMFl5gSgHmR2Dfb7t3EcS76\nsLSunWcI2wDW5cuvgwc6xKHQlaoZoisdfLr61G9NEO4Sq+G1IyyDf2CKNYQI1ZOC\nOmmV7oaiRrDrXkTttNfAz6naj9goAbajNNweEA0zTYqyc5KN/YU0kzwNH7V5oR3P\nI2W9CB3/ulzWgONqvGw/K2dip2WAnEAhtx924KAD2XLvyoE/O4VAyvaPF2BsCOvv\nUEyWF9OrAgMBAAECggEACk6S8rAvNUOvw3cslIJ3j8IaN5ua3EMpMrA/ZFaKyTZW\nX0KTfX+TiD1zZv0u6dM7pTZ/KlwV9Zl21f5VXo77UaVrhQee0Uot/mCHj+BIgkij\navb3C/BmqrO/MMNkpTdMa35hLED2H3YV/rbazSh8/rhehse8F9Nz7qGqO1+T6dse\nz6xjiEi1GG4wrtM0YoGBMLSvGaQWQapKHJ9v3DB8MN6vsV2zabA5K/m9PhS5bWbz\n9LKFAjFGtjehLgtZgb0qe7fwr7m8fHaTIH8WWRvHmQpIHAb9+6J5PW01AOMdXOrv\n+kvlsr1KHd9HiDnXzuGcOa3jjzXVvuUQldIhXbZn+QKBgQDAxmkE6O3hvGV+0piU\nFiVFgDxmchA0iPMnO0xhlEpCYg6M5sJZXqpes5KUHnRIm/QJdhjf0+82YAo0SGGF\nKHHijaScOzlTErWAA0niFOnVzrPovU2EXSQFHDk3S5cO5SImyGRVqufm4Fu5TsfP\n8yA3BfF435wMuHca6ZA3JrasVQKBgQC2IyON6BixlHMH3KTjLoN0OwrZVIlTJqiv\nYy2hGyVP+tUxr5oPdNyvnrwCCzj0bt9/+NhSvyv3wTVVmYAd3p+IM06pZsy/VNQJ\n9lugprVMW/d5v4fJKb6dTfZFmtOCUhDlxd0N9gYW5s9qiqPGn5B2V9kqqzLr6Xt+\nBE9HMBR//wKBgQCBanIEfs98VTsaGg2elQNuljl2WSrx6eK7Or77X08/I487Hovo\n7XmY3BsSXyOXv0LkuyjV0vTr3yvaj6EQgOd7vbV9wPCqCYxZpVuLcJjPFdaH79ZD\nfzf4SktLCO8fa8oymSNqs7K9t288h1vzCfhdmBrVF+EuVQR4x8YukEnghQKBgBWa\n6XbF11gJQfPmynBgbht1fX32Nyvz5AKaAymfLLfmCzAPoni+5ga3D5o2dpUYKc7m\nV9LI9pA3DPqQcNAaPlZLr8MMfLEdgOGFpazS2aKrLhn1DEhieUfznYj4KqrEzVhU\nNjqXunUw/92lgHPpLZu8I/iZwjqVwZ5bKIRLQcNFAoGAGwExCtBspsmxJ9B8brCE\nHA97TRg6QNjB5dDt5Gn+3Y1PJUwKFBSefhkjiLNYp+Z/L/f5LUe7RVrmzNHOQls7\ngeKqw4tGOVSvY95T09LyxvuuwSjqTVsY5r5bYNcIjqMgRVdn/qnvsLUnLtaCuPfs\ni2mTRRP1OwOReeFvIHf56jA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quarantinedost-bot@quarantinedost-oorg.iam.gserviceaccount.com",
+  "client_id": "114302074476520456407",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quarantinedost-bot%40quarantinedost-oorg.iam.gserviceaccount.com"
+}
